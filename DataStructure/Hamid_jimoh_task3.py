@@ -55,14 +55,17 @@
 # print(vowel_count)
 
 
-#number 10
-string_word = "1234"
-string_conv = int(string_word)
-multi_string = string_conv * 2 
-print(multi_string)
+# #number 10
+# string_word = "1234"
+# string_conv = int(string_word)
+# multi_string = string_conv * 2 
+# print(multi_string)
 
 
 
 #TASK3
+#number 11
+lis_t = "apple,banana,orange"
+print(lis_t.split())
+user_input = input ("please input the sentence you want me to format: ")
 
-input
